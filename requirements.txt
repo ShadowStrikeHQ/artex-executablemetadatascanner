@@ -1,0 +1,2 @@
+olefile>=1.0.0
+yara-python>=1.0.0
